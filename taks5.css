@@ -1,0 +1,21 @@
+header{
+height:100px ;
+width: 50px;
+background-color:aqua ;
+text-align:center ;
+font-size: 30px;
+}
+main{
+ height: 70px;   
+ width:170px ;
+ background-color: bisque;
+ text-align: center;
+ font-size: 15;
+}
+footer{
+height: 50px;
+width: 270px;
+background-color: black;
+text-align: left;
+font-size:15 ;
+}
